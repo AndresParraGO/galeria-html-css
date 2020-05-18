@@ -1,3 +1,11 @@
-# Galería con HTML y CSS
+# Gallery whit HTML and CSS
 
-Galería de imágenes con HTML y CSS con un bonito efecto hover.
+Gallery of images with HTML and CSS with a beautiful effect hover.
+
+## Preview
+![Preview](gif.gif)
+
+[Live Preview](https://andresparrago.github.io/galeria-html-css/)
+
+
+Author: Andrés Parra Garzón
